@@ -1,6 +1,6 @@
-# Feasibility-Study-RHUL-Centre-of-Excellence
+# Feasibility-Study-RHUL-Centre-for-Emerging Industries
 A strategic analysis of emerging industries in the Runnymede region, assessing feasibility and regional support systems for fostering innovation and entrepreneurship. This project was conducted for the RHUL Centre of Excellence , focusing on industrial growth, sustainability, and cross-sector collaboration for Emerging Industries.
-# RHUL Emerging Industries Feasibility Study
+# RHUL Centre for Emerging Industries Feasibility Study
 
 ## Overview
 This project, conducted as part of a group presentation at Royal Holloway, University of London (RHUL), focuses on assessing the feasibility and strategy for establishing a Centre for Emerging Industries (RHUL_CEI) in the Runnymede region. The aim is to foster the growth and sustainability of emerging industries by leveraging regional strengths, technological innovations, and cross-sector collaboration.
